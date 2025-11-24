@@ -1,5 +1,5 @@
 # Aula13ED.2.1
-## Atividade 1 lista 2
+## Atividade 1 Lista 2
 
 1) Criar um projeto Java, importando a biblioteca Arvore, que crie a árvore abaixo, usando os princípios de uma Árvore de busca binária e, usando os tipos de atravessamento estudados (pré- ordem, em ordem e pós-ordem). determine qual atravessamento apresenta os dados da árvore em ordem crescente. O projeto deve apresentar como fica o atravessamento Em Ordem quando o 60 é removido.
 
